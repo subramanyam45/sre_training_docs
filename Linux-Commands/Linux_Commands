@@ -1,0 +1,7 @@
+cd= change directory
+ls= list
+ls -l= list all files with their properties
+/= root directory
+cd ..= come out of a directory
+mkdir= create new directory
+pwd= present working directory
